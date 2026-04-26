@@ -1,0 +1,5 @@
+stage,val_accuracy,best_C,nonzero_coeffs,top3_preview
+1,0.5682,0.2,130,"hsa-mir-7111, hsa-mir-744, hsa-mir-598"
+2,0.5388,0.1,153,"hsa-mir-1322, hsa-mir-1225, hsa-mir-6822"
+3,0.6016,0.05,3,"hsa-mir-1273c, hsa-mir-7641-2, hsa-mir-6087"
+4,0.881,2.0,69,"hsa-mir-4773-2, hsa-mir-6867, hsa-mir-623"

@@ -1,0 +1,4 @@
+-> data (datasets)
+-> doc (project report, flyer, research material, any other documentation)
+-> other (folder for any other contents)
+-> photos and videos (demos, presentations, videos)

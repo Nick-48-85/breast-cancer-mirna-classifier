@@ -1,0 +1,17 @@
+miRNA,freq,picked_by
+hsa-mir-1322,3,"LASSO,SFS,VT"
+hsa-mir-5694,2,"LASSO,VT"
+hsa-mir-7156,2,"LASSO,VT"
+hsa-let-7b,1,Chi2
+hsa-mir-103b-1,1,SFS
+hsa-mir-103b-2,1,SFS
+hsa-mir-10a,1,Chi2
+hsa-mir-10b,1,Chi2
+hsa-mir-1225,1,LASSO
+hsa-mir-1272,1,SFS
+hsa-mir-1289-1,1,SFS
+hsa-mir-143,1,Chi2
+hsa-mir-148a,1,Chi2
+hsa-mir-1537,1,VT
+hsa-mir-3151,1,LASSO
+hsa-mir-4506,1,VT
