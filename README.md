@@ -77,7 +77,6 @@ Detailed confusion matrices, per-class precision/recall, and cross-validation br
 
 **Group 44** — Florida Atlantic University, Department of Computer Science & Engineering
 
-- Nicholas Campos
 
 ---
 
